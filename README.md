@@ -1,6 +1,4 @@
-目录
-[toc]
-
 # Welcome to lzh Blog
 
-
+# 目录
+[toc]
